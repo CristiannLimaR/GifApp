@@ -7,5 +7,6 @@ import { GifApp } from "./components/GifApp"
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <GifApp/>
+    <h1>dfsdfsdfsdgfdgdfgddfgf</h1>
   </React.StrictMode>
 )
